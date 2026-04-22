@@ -16,7 +16,7 @@
 
 ---
 
-## 📺 Демонстрация работы https://github.com/user-attachments/assets/6c1add31-10d2-4390-918f-3d472c47653b
+## 📺 Демонстрация работы <b>https://github.com/user-attachments/assets/6c1add31-10d2-4390-918f-3d472c47653b</b>
 
 ---
 
