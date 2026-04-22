@@ -1,11 +1,7 @@
 # Задача №5. Учет скоропортящихся товаров (FIFO по срокам годности)
 
 <details>
-<summary><b>📖 У
-
-https://github.com/user-attachments/assets/4014a52c-c999-4f8c-8c2a-6a2e6d0c2913
-
-словие задачи</b></summary>
+<summary><b>📖 Условие задачи</b></summary>
 
 **Цель:** Разработать систему учета товаров с автоматическим списанием партий по срокам годности.
 
@@ -20,8 +16,7 @@ https://github.com/user-attachments/assets/4014a52c-c999-4f8c-8c2a-6a2e6d0c2913
 
 ---
 
-## 📺 Демонстрация работы
-* https://github.com/user-attachments/assets/6c1add31-10d2-4390-918f-3d472c47653b
+## 📺 Демонстрация работы https://github.com/user-attachments/assets/6c1add31-10d2-4390-918f-3d472c47653b
 
 ---
 
