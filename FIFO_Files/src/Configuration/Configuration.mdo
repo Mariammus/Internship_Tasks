@@ -42,6 +42,7 @@
   <catalogs>Catalog.ЕдиницыИзмерения</catalogs>
   <documents>Document.ПоступлениеТовара</documents>
   <documents>Document.ПродажаТовара</documents>
+  <documents>Document.Тест</documents>
   <reports>Report.ОстаткиТоваров</reports>
   <accumulationRegisters>AccumulationRegister.СвободныеОстатки</accumulationRegisters>
 </mdclass:Configuration>
